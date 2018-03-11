@@ -14,6 +14,12 @@ module.exports = {
 				singleQuote: false,
 				printWidth: 150
 			}
+		},
+		{
+			files: 'package.json',
+			options: {
+				printWidth: 150
+			}
 		}
 	]
 }
