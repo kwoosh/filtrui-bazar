@@ -1,0 +1,9 @@
+{
+	"name": "filtrui-bazar",
+	"version": "0.0.1",
+	"description": "filtrui-bazar is a small library for filtering entry text =) Don't be rude ^^",
+	"main": "src/index.js",
+	"author": "kwoosh <tobirawork@gmail.com>",
+	"keywords": [],
+	"license": "MIT"
+}
