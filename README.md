@@ -1,4 +1,4 @@
-# What the fuck did you say?
+# WTF did you say?
 
 `filtrui-bazar` is a small library for filtering entry text =) Don't be rude ^^
 
