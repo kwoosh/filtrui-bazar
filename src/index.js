@@ -1,4 +1,5 @@
 const createRegexp = key => new RegExp(String(key), 'gi')
+
 const replaceKey = filters => (text, key) =>
 	text.replace(createRegexp(key), filters[key])
 
